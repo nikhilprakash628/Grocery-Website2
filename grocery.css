@@ -1,0 +1,90 @@
+/* body {
+    background-image: url("Project1/backgroung.jpg");
+}    */
+body {
+    
+    /* background-color: darkkhaki; */
+     background-image:url("background.webp");
+     background-size: 1800px 1800px;
+     background-repeat: no-repeat;
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ *{
+     box-sizing:border-box;
+ }
+ 
+ 
+  h1 {
+     text-align: center;
+     text-decoration: double;
+     padding: 0px;
+     color: brown;
+     text-shadow: 2px 2px 2px red;
+     font-size: 80px;
+     /* background-image: url("bggrocery1.jpg");
+     background-size: 2000px 700px;
+     background-repeat: no-repeat; 
+     */
+ }
+ 
+ nav {
+     /* display: inline-block;
+     padding: 25px 25px 26px 25px;
+     font-size: 17px;
+     list-style:none;
+      */
+     background-color: lightsteelblue;
+     overflow: hidden;
+     text-align: center;
+     
+     background-size: 2000px 700px;
+     background-repeat: no-repeat; 
+ }
+ 
+ nav a {
+     text-decoration: none;
+     padding: 50px;
+     text-align: center;
+     float: center;
+     color: rgb(62, 3, 3);
+ }
+ 
+ .column {
+     float: left;
+     width: 45%;
+     padding: 100px;
+     margin-left: 30px;
+     margin-right: 40px;
+    
+ }
+ 
+ /* .row::after{
+             content:"";
+             display:table;
+             clear: both;
+ } */
+ 
+ .column img{
+     border-radius: 80px;
+ }
+ 
+ /* div {
+     padding: 50px;
+ } */
+
+/* .fontsize1{
+    font-size: 200%;
+    text-align: center;
+} */
+ a {
+     /* text-align: center; */
+     font-size: 20px;
+     color: rgb(255, 0, 0);
+     /* font-size: 500%; */
+     /* padding-left: 10px; */
+ }

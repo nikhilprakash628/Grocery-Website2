@@ -1,0 +1,38 @@
+body {
+    background-color: aqua;
+   
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 80px;
+    /* font-family: "Lucida Console", "Courier New", monospace; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* border-bottom: 6px solid rgb(139, 61, 139);
+    background-color: lightgrey; */
+    color: black;
+    background-image: url("imgkir.jpg");
+    background-size: 2000px 200px;
+    background-repeat: no-repeat;
+}
+
+p {
+    width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+.item-select {
+    margin: 2px;
+}
+
+.column img {
+    border-radius: 80px;
+}
+a {
+    font-size: 20px;
+}

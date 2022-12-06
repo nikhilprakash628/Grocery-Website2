@@ -1,0 +1,23 @@
+body {
+    background-color: darkkhaki;
+}
+h1{
+    text-align: center;
+    border-bottom: 6px solid rgb(139, 61, 139);
+    background-color: lightgrey;
+    color: darkblue;
+    font-size: 120px;
+    /* background-size: 80px 80px; */
+}
+body {
+    /* border: 10px solid red;
+    border-radius: 12px;
+    padding: 50px; */
+}
+.column img {
+    border-radius: 80px;
+}
+
+.item-select {
+    margin: 2px;
+}
